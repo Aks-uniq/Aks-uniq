@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aks-uniq
-- 👀 I’m interested in Anime , games
-- 🌱 I’m currently learning python , java , anything that matters i can learn
+- 👀 I’m interested in Anime , games and coding
+- 🌱 I’m currently learning python , java , c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - you cant coz , *I AM ALL THE WAY UP*
 
