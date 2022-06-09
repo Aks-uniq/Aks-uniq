@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aks-uniq
+- 👋 Hi, I’m @God_Aks
 - 👀 I’m interested in Anime , games and coding
 - 🌱 I’m currently learning python , java , c#
 - 💞️ I’m looking to collaborate on ...
