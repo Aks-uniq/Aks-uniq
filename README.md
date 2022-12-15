@@ -7,14 +7,11 @@
 
 - 🔭 I’m currently working on **Unity Game development using C#**
 
-- 🌱 I’m currently learning **game development using C# ,java ,Python**
-
 - ⚡ Fun fact **Developers in the gaming industry are the happiest.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/god_aks_meh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="god_aks_meh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/god_aks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="god_aks" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Currently Learning:</h3>
